@@ -1,0 +1,11 @@
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Individual_Coursework\Individual_Coursework\obj\Debug\Individual_Coursework.csprojAssemblyReference.cache
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Individual_Coursework\Individual_Coursework\obj\Debug\Individual_Coursework.Main_interface.resources
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Individual_Coursework\Individual_Coursework\obj\Debug\Individual_Coursework.Properties.Resources.resources
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Individual_Coursework\Individual_Coursework\obj\Debug\Individual_Coursework.csproj.GenerateResource.cache
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Individual_Coursework\Individual_Coursework\obj\Debug\Individual_Coursework.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Individual_Coursework\Individual_Coursework\bin\Debug\Individual_Coursework.exe.config
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Individual_Coursework\Individual_Coursework\bin\Debug\Individual_Coursework.exe
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Individual_Coursework\Individual_Coursework\bin\Debug\Individual_Coursework.pdb
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Individual_Coursework\Individual_Coursework\obj\Debug\Individual_Coursework.exe
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Individual_Coursework\Individual_Coursework\obj\Debug\Individual_Coursework.pdb
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Individual_Coursework\Individual_Coursework\obj\Debug\Individual_Coursework.Edit_entries.resources
